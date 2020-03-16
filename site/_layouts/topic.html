@@ -1,0 +1,15 @@
+---
+title: Plays in this topic
+layout: page
+---
+
+{{ content }}
+
+<h2>Plays</h2>
+<ul>
+  {% assign filtered_posts = site.pages | where: 'topic', page.short_name %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{{ post.description }}
+  {% endfor %}
+</ul>
