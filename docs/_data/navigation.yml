@@ -3,11 +3,11 @@
 sidebar:
   - text: About
     href: /about
-  - text: News
-    href: /news
   - text: Playbook
     links:
 #  - text: Data
 #    href: /data
   - text: Meeting Materials
     href: /meetings
+  - text: News
+    href: /news

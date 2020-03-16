@@ -46,13 +46,14 @@ Easy
 
 [Use this template]() to make your own magnets. If you modify this template, we'd love for you to share yours too!
 
-### Who's Doing This?
-
-Michigan
 
 ### Outcomes Data
 
 We're working to collect exact data on this, but we believe this increases the ease and rate of license renewals.
+
+### Who's Doing This?
+
+Michigan
 
 ### Real-World Examples
 
