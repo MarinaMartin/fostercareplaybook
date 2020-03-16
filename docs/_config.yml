@@ -28,9 +28,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: uswds-jekyll
+# theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 
 collections:

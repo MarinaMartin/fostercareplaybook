@@ -24,4 +24,7 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Installs US Web Design Standard theme
-gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git'
+# gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git'
+
+# God Bless Ben Balter
+gem 'jekyll-remote-theme'
