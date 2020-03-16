@@ -42,9 +42,13 @@ Immediate
 **Difficulty:**
 Easy
 
+### The Problem It Solves
+
+Many families forget to complete their required fire evacuation practice throughout the year, and don't have this information available at license renewal. The magnet reminds families to practice, and serves as easy documentation that they did so.
+
 ### How To Do This
 
-[Use this template]() to make your own magnets. If you modify this template, we'd love for you to share yours too!
+Use this template ([DOCX](/assets/Emergency%20Fridge%20Decoration.docx) or [PDF](/assets/Emergency%20Fridge%20Decoration.pdf)) to make your own magnets. If you modify this template, we'd love for you to share yours too!
 
 
 ### Outcomes Data
