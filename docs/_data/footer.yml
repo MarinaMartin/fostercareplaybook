@@ -1,0 +1,17 @@
+# visual samples https://designsystem.digital.gov/components/footer/
+# configuration sample https://github.com/18F/uswds-jekyll/blob/master/_data/footer.yml
+
+type: slim
+
+top:
+  text: Return to top
+  href: '#'
+
+links: footer # links into _data/navigation.yml
+
+contact:
+  contact_links:
+    - text: (800) CALL-GOVT
+      href: tel:1-800-555-5555
+    - text: info@agency.gov
+      href: mailto:info@agency.gov
