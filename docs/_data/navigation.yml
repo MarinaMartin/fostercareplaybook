@@ -11,3 +11,12 @@ sidebar:
     href: /meetings
   - text: News
     href: /news
+
+footer:
+  - text: Documentation
+    href: /docs/
+  - text: Demo link
+    href: /demo/
+  - text: External link
+    href: https://18f.gsa.gov
+    external: true
