@@ -28,27 +28,24 @@ timeframe: immediate
 
 ### The Play
 
-A dry-erase magnet for foster families to document practicing their evacuation plans.
+A dry-erase magnet for foster families to document practicing their fire and/or tornado evacuation plans.
 
 **Who Can Do This?:**
-Direct line workers
-
+Anyone<br />
 **Cost:**
-Free
-
+Free<br />
 **Timeframe:**
-Immediate
-
+Immediate<br />
 **Difficulty:**
-Easy
+Easy<br />
 
 ### The Problem It Solves
 
-Many families forget to complete their required fire evacuation practice throughout the year, and don't have this information available at license renewal. The magnet reminds families to practice, and serves as easy documentation that they did so.
+Many families forget to complete their required evacuation practice throughout the year, and don't have this information available at license renewal. The magnet reminds families to practice, and serves as easy documentation that they did so.
 
 ### How To Do This
 
-Use this template ([DOCX](/assets/Emergency%20Fridge%20Decoration.docx) or [PDF](/assets/Emergency%20Fridge%20Decoration.pdf)) to make your own magnets. If you modify this template, we'd love for you to share yours too!
+Use this template ([DOCX](/assets/Emergency%20Fridge%20Decoration.docx) or [PDF](/assets/Emergency%20Fridge%20Decoration.pdf)) to print and laminate your own magnets. If you modify this template, we'd love for you to share yours too!
 
 
 ### Outcomes Data
@@ -60,6 +57,3 @@ We're working to collect exact data on this, but we believe this increases the e
 Michigan
 
 ### Real-World Examples
-
-#### Topic
-licensing
