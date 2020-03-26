@@ -45,11 +45,11 @@ Many agencies are pausing their resource family training and licensing efforts. 
 
 ### How To Do This
 
-**To use existing online foster parent training:** [Caregiver Core Training (CCT)](https://allianceforchildwelfare.org/project/learn-more-about-caregiver-core-training-online), the online system developed by the University of Washington for Washington State, is generously being made available for other areas to use during this time. 
+**Existing online foster parent training:** [Caregiver Core Training (CCT)](https://allianceforchildwelfare.org/project/learn-more-about-caregiver-core-training-online) is the online system developed by the Alliance for Child Welfare Excellence, a partnership within Washington State.  If you are interested in discussing with the Alliance whether this is a viable option for your state, please contact them directly.
 
 * Try [their demo](https://rise.articulate.com/share/i440AYYoiwdbuLFGST9LfKJrqfy4t05t#/)
 * See their [overview slide deck](/assets/CCT_Online_Intro.pdf)
-* Contact Christina Coad (ccoad AT uw DOT edu) for more information or to sign up. 
+* Contact Christina Coad (ccoad AT uw DOT edu) for more information. 
 
 **For telephone orientations:** Use [this slide deck](/assets/CFSA_Recruitment_Orientation_March_2020_Pride.pptx) prepared by Washington DC.
 
