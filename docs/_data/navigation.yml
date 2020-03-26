@@ -13,10 +13,15 @@ sidebar:
     href: /news
 
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: New America
+    href: https://www.newamerica.org/public-interest-technology/
+    external: true
+  - text: Beeck Center’s Digital Service Collaborative (DSC)
+    href: https://beeckcenter.georgetown.edu/project/digital-service-collaborative-building-capacity-for-digital-transformation-in-government/
+    external: true
+  - text: Foster America
+    href: https://www.foster-america.org/
+    external: true
+  - text: Think of Us
+    href: https://www.thinkof-us.org/
     external: true
