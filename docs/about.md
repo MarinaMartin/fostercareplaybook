@@ -17,7 +17,7 @@ subnav:
 
 The Foster Care Playbook is a collection of creative practices that lead to tangible improvements and efficiencies in support of foster children and families. Our goal is to create a public, actionable playbook documenting proven best practices that can be easily replicated and scaled by others. 
 
-The Playbook is the result of a collaboration between states at the cutting edge of this work, in partnership with [Foster America]((https://www.foster-america.org/)), the [Beeck Center’s Digital Service Collaborative (DSC)](https://beeckcenter.georgetown.edu/project/digital-service-collaborative-building-capacity-for-digital-transformation-in-government/), [Think of Us](https://www.thinkof-us.org/), and [New America's Public Interest Technology team](https://www.newamerica.org/public-interest-technology/). 
+The Playbook is the result of a collaboration between states at the cutting edge of this work and [New America's Public Interest Technology team](https://www.newamerica.org/public-interest-technology/), in partnership with the [Beeck Center’s Digital Service Collaborative (DSC)](https://beeckcenter.georgetown.edu/project/digital-service-collaborative-building-capacity-for-digital-transformation-in-government/), [Foster America](https://www.foster-america.org/), and [Think of Us](https://www.thinkof-us.org/).
 
 ### Membership
 

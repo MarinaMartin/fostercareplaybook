@@ -77,6 +77,8 @@ Many agencies are pausing their resource family training and licensing efforts. 
 
 * Build in short breaks throughout the session so that people don’t disengage. 
 
+* Jessica Sweet from MI DHHS has generously offered her assistance if you have any questions. You can reach her at SweetJ2 AT michigan DOT gov.
+
 
 ### Outcomes Data
 
