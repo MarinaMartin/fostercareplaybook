@@ -18,11 +18,16 @@ subnav:
 
 NEXT MEETING: 
 
-March 19, 2020
-0900 PT / 1200 ET
+April 16, 2020
+1130 PT / 1430 ET
 Topic: Home Studies
 
 PREVIOUS MEETINGS:
+
+
+March 19, 2020
+0900 PT / 1200 ET
+Topic: Online Foster Parent Training
 
 February 12, 2020
 1100 PT / 1400 ET

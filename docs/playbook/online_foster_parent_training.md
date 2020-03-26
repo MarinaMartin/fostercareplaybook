@@ -18,7 +18,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: draft
+topic: licensing
 difficulty: medium
 audience: licensing decision makers
 cost: free
