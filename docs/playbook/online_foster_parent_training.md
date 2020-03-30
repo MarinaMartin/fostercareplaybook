@@ -51,7 +51,7 @@ Many agencies are pausing their resource family training and licensing efforts. 
 * See their [overview slide deck](/assets/CCT_Online_Intro.pdf)
 * Contact Christina Coad (ccoad AT uw DOT edu) for more information. 
 
-**For telephone orientations:** Use [this slide deck](/assets/CFSA_Recruitment_Orientation_March_2020_Pride.pptx) prepared by Washington DC.
+**For telephone orientations:** Use this slide deck ( [PPT](/assets/CFSA_Recruitment_Orientation_March_2020_Pride.pptx) / [PDF](/assets/CFSA_Recruitment_Orientation_March_2020_Pride.pdf) ) prepared by Washington DC's Child and Family Services Agency Recruitment and Family Licensing Units.
 
 * DC provided a PowerPoint for participants to follow along and had a foster parent on the phone line to provide a real-world perspective of the foster care experience. 
 
