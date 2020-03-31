@@ -23,7 +23,7 @@ The Playbook is the result of a collaboration between states at the cutting edge
 
 Any state, county (in county-administered systems), or private agency is welcome to join us. We also welcome input from any individuals or organizations with expertise and best practices to share!
 
-Our current members include: California, Indiana, Maryland (Baltimore and Prince George's County), Michigan, New Mexico, Ohio, Rhode Island, Virginia (Fairfax County), Washington DC, and Washington State.
+Our current members include: California, Indiana, Maryland (Baltimore, Frederick, Montgomery, and Prince George's Counties), Michigan, New Mexico, Ohio, Rhode Island, Virginia (Fairfax County), Washington DC, and Washington State.
 
 There is absolutely no cost to participate, and the commitment is just two hours a month. **To join, email marina AT marinanitze DOT com.**
 
