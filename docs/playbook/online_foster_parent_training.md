@@ -41,7 +41,7 @@ Many agencies are pausing their resource family training and licensing efforts. 
 
 ### How To Do This
 
-<p class="usa-alert">Visual learner? Watch a demo the below options <a href="https://www.youtube.com/watch?v=ud7l3isNI4c">here</a>.</p>
+<p class="usa-alert">Visual learner? Watch a demo of the below options <a href="https://www.youtube.com/watch?v=ud7l3isNI4c">here</a>.</p>
 
 **Use existing online foster parent training:** [Caregiver Core Training (CCT)](https://allianceforchildwelfare.org/project/learn-more-about-caregiver-core-training-online) is the online system developed by the Alliance for Child Welfare Excellence, a partnership within Washington State.  If you are interested in exploring whether this is a viable option for your state, please contact the Alliance directly.
 
