@@ -18,7 +18,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: draft
+topic: licensing
 difficulty: easy
 audience: anyone
 cost: free
@@ -45,7 +45,7 @@ Many families forget to complete their required evacuation practice throughout t
 
 ### How To Do This
 
-Use this template ([DOCX](/assets/Emergency%20Fridge%20Decoration.docx) or [PDF](/assets/Emergency%20Fridge%20Decoration.pdf)) to print and laminate your own magnets. If you modify this template, we'd love for you to share yours too!
+Use this template ([DOCX](/assets/Emergency%20Fridge%20Decoration.docx) or [PDF](/assets/Emergency%20Fridge%20Decoration.pdf)) to print and laminate your own magnets, created by Clinton County MDHHS. If you modify this template, we'd love for you to share yours too!
 
 
 ### Outcomes Data
@@ -54,6 +54,6 @@ We're working to collect exact data on this, but we believe this increases the e
 
 ### Who's Doing This?
 
-Michigan
+Clinton County MDHHS, Michigan
 
 ### Real-World Examples
