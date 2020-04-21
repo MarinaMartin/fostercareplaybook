@@ -18,12 +18,15 @@ subnav:
 
 NEXT MEETING: 
 
-April 16, 2020
+May 16, 2020
 1130 PT / 1430 ET
-Topic: Home Studies
+Topic: Background Checks + Home Study Guest Speaker
 
 PREVIOUS MEETINGS:
 
+April 16, 2020
+1130 PT / 1430 ET
+Topic: Home Studies
 
 March 19, 2020
 0900 PT / 1200 ET
