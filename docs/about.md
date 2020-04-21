@@ -5,14 +5,14 @@ description: The Foster Care Playbook is a collection of creative practices that
 layout: page
 sidenav: sidebar
 subnav:
-  - text: COVID-19
-    href: /covid-19
   - text: Kinship
     href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care
     href: /extended-foster-care
+  - text: COVID-19
+    href: /covid-19
 ---
 
 The Child Welfare Playbook is a collection of creative practices that lead to tangible improvements and efficiencies in support of foster children and families. Our goal is to create a public, actionable playbook documenting proven best practices that can be easily replicated and scaled by others.

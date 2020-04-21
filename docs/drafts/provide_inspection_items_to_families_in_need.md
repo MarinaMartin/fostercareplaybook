@@ -9,10 +9,6 @@ subnav:
     href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
-  - text: Foster Parent Recruitment
-    href: /recruitment
-  - text: Placement
-    href: /placement
   - text: Extended Foster Care
     href: /extended-foster-care
   - text: COVID-19

@@ -4,14 +4,14 @@ description: News and announcements related to the foster care playbook.
 layout: page
 sidenav: sidebar
 subnav:
-  - text: COVID-19
-    href: /covid-19
   - text: Kinship
     href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care
     href: /extended-foster-care
+  - text: COVID-19
+    href: /covid-19
 ---
 
 <ul>
