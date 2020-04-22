@@ -14,7 +14,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: draft
+topic: licensing
 difficulty: easy
 audience: anyone
 cost: free
