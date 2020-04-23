@@ -1,5 +1,5 @@
 ---
-title: Workgroup Meeting Materials
+title: Workgroup Meetings
 description: Materials for the working group.
 layout: page
 sidenav: sidebar

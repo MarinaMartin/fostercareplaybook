@@ -1,6 +1,6 @@
 ---
 title: Foster Parent Licensing Plays
-description: Best practices related to foster parent licensing, including kinship licenses.
+description: Here you will find a collection of some best practices on foster parent licensing from our members.
 layout: page
 sidenav: sidebar
 subnav:
