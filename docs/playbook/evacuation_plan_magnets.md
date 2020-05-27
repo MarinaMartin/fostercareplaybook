@@ -52,4 +52,3 @@ We're working to collect exact data on this, but we believe this increases the e
 
 Clinton County MDHHS, Michigan
 
-### Real-World Examples
