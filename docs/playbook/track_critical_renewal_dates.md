@@ -67,5 +67,3 @@ We are still collecting concrete data, but suspect that this:
 ### Who's Doing This?
 
 Clinton County MDHHS, Michigan
-
-### Real-World Examples
