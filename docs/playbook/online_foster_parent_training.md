@@ -87,7 +87,7 @@ Many agencies are pausing their resource family training and licensing efforts. 
 
 * Contact Jessica Sweet from MI DHHS if you have any questions. You can reach her at SweetJ2 AT michigan DOT gov.
 
-**Is your agency using [Binti](https://binti.com)?** 
+**If your agency is using [Binti](https://binti.com):** 
 
 * Provide an online orientation video for families to watch. Afterwards, they can answer a quiz in order to get credit. You can use a video you have filmed or link to a video on another website. 
 * Binti is in the process of launching a feature for online initial and renewal trainings that can be done by families online to get training credit. This will be live in a few weeks (as of 4/5/20).
