@@ -1,5 +1,5 @@
 ---
-title: Extended Foster Care Plays
+title: Extended Foster Care
 description: Best practices related to extended foster care.
 layout: page
 sidenav: sidebar

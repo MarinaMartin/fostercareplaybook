@@ -67,4 +67,3 @@ We are still collecting concrete data, but suspect that this:
 
 Rhode Island
 
-### Real-World Examples

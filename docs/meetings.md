@@ -16,22 +16,26 @@ subnav:
 
 {{ page.description }}
 
-NEXT MEETING: 
+**NEXT MEETING:** 
+
+June 18, 2020
+* 11:30 PT / 1430 ET
+* Topic: Licensing Renewals
+
+**PREVIOUS MEETINGS:**
 
 May 16, 2020
-1130 PT / 1430 ET
-Topic: Background Checks + Home Study Guest Speaker
-
-PREVIOUS MEETINGS:
+* 1130 PT / 1430 ET
+* Topic: Background Checks + Home Study Guest Speaker
 
 April 16, 2020
-1130 PT / 1430 ET
-Topic: Home Studies
+* 1130 PT / 1430 ET
+* Topic: Home Studies
 
 March 19, 2020
-0900 PT / 1200 ET
-Topic: Online Foster Parent Training
+* 0900 PT / 1200 ET
+* Topic: Online Foster Parent Training + COVID 
 
 February 12, 2020
-1100 PT / 1400 ET
-Topic: Safety Inspections
+* 1100 PT / 1400 ET
+* Topic: Safety Inspections
