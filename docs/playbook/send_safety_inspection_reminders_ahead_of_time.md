@@ -5,8 +5,6 @@ description: Make the safety inspection checklist available to families ahead of
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

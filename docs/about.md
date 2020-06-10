@@ -5,8 +5,6 @@ description: The Foster Care Playbook is a collection of creative practices that
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

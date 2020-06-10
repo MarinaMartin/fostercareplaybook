@@ -5,8 +5,6 @@ description: Increase compliance with practicing home evacuations with a simple 
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

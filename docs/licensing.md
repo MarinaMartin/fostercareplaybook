@@ -4,8 +4,6 @@ description: Here you will find a collection of some best practices on foster pa
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

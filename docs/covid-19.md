@@ -4,8 +4,6 @@ description: Best practices related to child welfare and coronavirus.
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

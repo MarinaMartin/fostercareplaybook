@@ -5,8 +5,6 @@ description: Provide critical safety items that families need to pass the safety
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

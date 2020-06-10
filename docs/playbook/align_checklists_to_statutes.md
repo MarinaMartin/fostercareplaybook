@@ -5,8 +5,6 @@ description: Align checklist items to specific statutes to help decision-makers 
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

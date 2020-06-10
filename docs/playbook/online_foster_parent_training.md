@@ -5,8 +5,6 @@ description: Fully remote resource family training can help you continue to lice
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

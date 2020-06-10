@@ -5,8 +5,6 @@ description: Add critical dates like CPR certification renewals, pet vaccination
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

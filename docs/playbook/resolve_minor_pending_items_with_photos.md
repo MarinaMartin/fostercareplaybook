@@ -5,8 +5,6 @@ description: Allow foster families to send pictures confirming resolution of min
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

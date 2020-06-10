@@ -4,8 +4,6 @@ description: News and announcements related to the foster care playbook.
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care

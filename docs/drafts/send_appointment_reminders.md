@@ -5,8 +5,6 @@ description: Send a reminder to families about their upcoming inspection / home 
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
   - text: Extended Foster Care
