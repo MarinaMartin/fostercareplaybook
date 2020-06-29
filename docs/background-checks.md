@@ -1,6 +1,6 @@
 ---
-title: Kinship Plays
-description: Best practices related to kinship.
+title: Foster Parent Licensing Plays
+description: Here you will find a collection of some best practices on foster parent licensing from our members.
 layout: page
 sidenav: sidebar
 subnav:
@@ -16,10 +16,8 @@ subnav:
 
 {{ page.description }}
 
-COMING SOON - This is the workgroup topic for April.
-
 <ul>
-  {% assign filtered_posts = site.pages | where: 'topic', 'kinship' %}
+  {% assign filtered_posts = site.pages | where: 'topic', 'background' %}
   {% for post in filtered_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{{ post.description }}

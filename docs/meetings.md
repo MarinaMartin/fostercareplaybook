@@ -6,6 +6,8 @@ sidenav: sidebar
 subnav:
   - text: Foster Parent Licensing
     href: /licensing
+  - text: Background Checks
+    href: /background-checks
   - text: Extended Foster Care
     href: /extended-foster-care
   - text: COVID-19
@@ -16,11 +18,15 @@ subnav:
 
 **NEXT MEETING:** 
 
-June 18, 2020
-* 11:30 PT / 1430 ET
-* Topic: Licensing Renewals
+July 21, 2020
+* 1200 PT / 1500 ET
+* Topic: Training
 
 **PREVIOUS MEETINGS:**
+
+June 18, 2020
+* 1130 PT / 1430 ET
+* Topic: Licensing Renewals
 
 May 16, 2020
 * 1130 PT / 1430 ET

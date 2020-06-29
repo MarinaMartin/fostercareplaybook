@@ -6,10 +6,13 @@ sidenav: sidebar
 subnav:
   - text: Foster Parent Licensing
     href: /licensing
+  - text: Background Checks
+    href: /background-checks
   - text: Extended Foster Care
     href: /extended-foster-care
   - text: COVID-19
     href: /covid-19
+
 ---
 
 {{ page.description }}
@@ -17,7 +20,7 @@ subnav:
 COMING SOON
 
 <ul>
-  {% assign filtered_posts = site.pages | where: 'topic', 'kinship' %}
+  {% assign filtered_posts = site.pages | where: 'topic', 'efc' %}
   {% for post in filtered_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{{ post.description }}
