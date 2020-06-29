@@ -1,6 +1,6 @@
 ---
-title: Kinship Plays
-description: Best practices related to kinship.
+title: Foster Parent Licensing Renewals Plays
+description: Here you will find a collection of some best practices on renewing foster parent licenses from our members.
 layout: page
 sidenav: sidebar
 subnav:
@@ -8,6 +8,8 @@ subnav:
     href: /licensing
   - text: Background Checks
     href: /background-checks
+  - text: License Renewals
+    href: /renewals
   - text: Extended Foster Care
     href: /extended-foster-care
   - text: COVID-19
@@ -16,10 +18,8 @@ subnav:
 
 {{ page.description }}
 
-COMING SOON - This is the workgroup topic for April.
-
 <ul>
-  {% assign filtered_posts = site.pages | where: 'topic', 'kinship' %}
+  {% assign filtered_posts = site.pages | where: 'topic', 'renewals' %}
   {% for post in filtered_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{{ post.description }}
