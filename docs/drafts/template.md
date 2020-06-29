@@ -5,10 +5,10 @@ description: Description
 layout: page
 sidenav: sidebar
 subnav:
-  - text: Kinship
-    href: /kinship
   - text: Foster Parent Licensing
     href: /licensing
+  - text: Background Checks
+    href: /background-checks
   - text: Extended Foster Care
     href: /extended-foster-care
   - text: COVID-19
