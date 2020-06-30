@@ -1,6 +1,6 @@
 ---
-title: The Foster Care Playbook
-description: The Foster Care Playbook is a collection of creative practices that lead to tangible improvements and efficiencies in support of foster children and families. Our goal is to create a public, actionable playbook documenting proven best practices that can be easily replicated and scaled by others. 
+title: The Child Welfare Playbook
+description: The Child Welfare Playbook is a collection of creative practices that lead to tangible improvements and efficiencies in support of foster children and families. Our goal is to create a public, actionable playbook documenting proven best practices that can be easily replicated and scaled by others. 
 
 layout: page
 sidenav: sidebar
