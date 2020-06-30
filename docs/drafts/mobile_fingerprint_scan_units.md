@@ -26,7 +26,7 @@ difficulty: medium
 
 ### The Play
 
-Use mobile fingerprint scan units to capture and process fingerprints remotely. 
+Use mobile fingerprint scan units to capture and process fingerprints on-site in a family's home.
 
 **Who Can Do This?:**
 Anyone<br />
