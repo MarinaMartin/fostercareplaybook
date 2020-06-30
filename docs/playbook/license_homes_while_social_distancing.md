@@ -1,6 +1,6 @@
 ---
 title: License homes while social distancing
-description: Description
+description: Best practices for continuing to license homes with limited in-person contact.
 
 layout: page
 sidenav: sidebar
