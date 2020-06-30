@@ -1,5 +1,5 @@
 ---
-title: Best Practices for Requesting & Fulfilling Out-of-State Abuse & Neglect Registry Checks
+title: Use Best Practices for Requesting & Fulfilling Out-of-State Abuse & Neglect Registry Checks
 description: Best practices for Adam Walsh checks.
 
 layout: page
