@@ -1,5 +1,5 @@
 ---
-title: Extended Foster Care
+title: Extended Foster Care Plays
 description: Best practices related to extended foster care.
 layout: page
 sidenav: sidebar
@@ -18,8 +18,6 @@ subnav:
 ---
 
 {{ page.description }}
-
-COMING SOON
 
 <ul>
   {% assign filtered_posts = site.pages | where: 'topic', 'efc' %}
