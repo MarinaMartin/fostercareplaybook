@@ -16,7 +16,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: draft
+topic: licensing
 difficulty: easy
 audience: anyone
 cost: free
@@ -64,6 +64,6 @@ We are still collecting concrete data, but suspect that this will:
 
 ### Who's Doing This?
 
-Sacramento County, California
+No one yet! But we heard the need from multiple members. Be the first?
 
 ### Real-World Examples
