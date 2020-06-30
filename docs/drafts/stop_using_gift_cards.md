@@ -1,5 +1,5 @@
 ---
-title: Stop Using Gift Cards for Stipends
+title: Give cash or prepaid cards for stipends
 description: Give cash or prepaid cards for stipends instead of store-specific gift cards like Target cards.
 
 layout: page
