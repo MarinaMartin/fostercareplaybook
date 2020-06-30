@@ -16,7 +16,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: drafts
+topic: efc
 audience: anyone
 cost: free
 timeframe: immediate
@@ -55,7 +55,6 @@ We are still collecting concrete data, but believe that this:
 
 ### Who's Doing This?
 
-[Uplift Family Services](https://upliftfs.org/) in CA
-
+No one yet! But we heard the need from multiple members. Be the first?
 
 *This play was contributed by [Think of Us](https://thinkof-us.org).*
