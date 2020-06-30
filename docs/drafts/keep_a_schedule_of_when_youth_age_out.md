@@ -57,4 +57,5 @@ We are still collecting concrete data, but believe that this:
 
 [Uplift Family Services](https://upliftfs.org/) in CA
 
-### Real-World Examples
+
+*This play was contributed by [Think of Us](https://thinkof-us.org).*
