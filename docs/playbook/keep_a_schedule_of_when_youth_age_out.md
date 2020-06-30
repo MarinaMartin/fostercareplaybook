@@ -1,6 +1,6 @@
 ---
 title: Keep a Schedule of When Youth Will Age Out
-description: Description
+description: Make a chronological list of your older foster youth sorted by their expected transition date.
 
 layout: page
 sidenav: sidebar

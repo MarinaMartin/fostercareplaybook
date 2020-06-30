@@ -1,6 +1,6 @@
 ---
 title: Allow youth to explore and select programs available to them
-description: Description
+description: Let youth determine their own programming, instead of receiving a filtered list from their case worker
 
 layout: page
 sidenav: sidebar
