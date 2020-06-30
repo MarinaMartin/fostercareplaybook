@@ -67,3 +67,5 @@ Santa Clara County, California
 * [Venmo](https://venmo.com/about/product/))
 * [Visa gift cards](https://usa.visa.com/pay-with-visa/find-card/get-prepaid-card)
 * [Visa Buxx gift cards for teens](https://usa.visa.com/pay-with-visa/cards/prepaid-cards/buxx-card.html)
+
+*This play was contributed by [Think of Us](https://thinkof-us.org).*

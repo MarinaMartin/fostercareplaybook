@@ -63,3 +63,5 @@ We are still collecting concrete data, but believe that this:
 ### Real-World Examples
 
 [Printable Heart Map](/assets/heartmap.pdf)
+
+*This play was contributed by [Think of Us](https://thinkof-us.org).*
