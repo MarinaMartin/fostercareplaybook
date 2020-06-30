@@ -26,7 +26,7 @@ difficulty: easy
 
 ### The Play
 
-Send an email to foster familes 2-3 months before their license expires, outlining the steps requird for their renewal.
+Send an email to foster families 2-3 months before their license expires, outlining the steps requird for their renewal.
 
 **Who Can Do This?:**
 Anyone<br />
