@@ -52,7 +52,8 @@ Families are often overwhelmed with responsibilities and let licensing renewal r
 
 ### Outcomes Data
 
-Families can complete their renewal requirements faster, with fewer follow-ups from their licensing worker.
+We are still collecting concrete data, but believe that this means:
+* Families can complete their renewal requirements faster, with fewer follow-ups from their licensing worker.
 
 ### Who's Doing This?
 
