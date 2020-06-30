@@ -58,7 +58,7 @@ We are still collecting concrete data, but believe that this:
 
 ### Who's Doing This?
 
-Uplift Family Services in CA
+[Uplift Family Services](https://upliftfs.org/) in CA
 
 ### Real-World Examples
 
