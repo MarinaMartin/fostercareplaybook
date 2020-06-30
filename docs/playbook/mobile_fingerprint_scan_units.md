@@ -16,7 +16,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: drafts
+topic: background
 audience: anyone
 cost: estimated at $10,000
 timeframe: within a month
