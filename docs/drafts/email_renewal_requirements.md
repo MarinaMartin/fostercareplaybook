@@ -45,6 +45,7 @@ Families are often overwhelmed with responsibilities and let licensing renewal r
 
 * Write an email to a current foster family with an upcoming renewal, including every possible renewal requirement.
 * Save this email as a template.
+* Keep a list, in your IT system or in a spreadsheet, of currently-licensed families and their renewal dates.
 * When a family is 60-90 days from their renewal date, send them this email, editing the requirement list to reflect their remaining steps.
 * Respond as needed to continually mark requirements as complete, and highlight remaining steps
 
