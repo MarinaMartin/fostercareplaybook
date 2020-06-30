@@ -26,7 +26,7 @@ difficulty: easy
 
 ### The Play
 
-Ask prospective foster families if they have lived out-of-state early in the application process. Provide Adam Walsh/out-of-state background check forms for the state(s) in which the family has lived during early meetings or information sessions with the family, to launch the out-of-state clearance process as soon as possible.
+Ask prospective foster families if they have lived out-of-state early in the application process. Provide Adam Walsh/out-of-state abuse/neglect check forms for the state(s) in which the family has lived during early meetings or information sessions with the family, to launch the out-of-state clearance process as soon as possible.
 
 **Who Can Do This?:**
 Anyone<br />
@@ -58,5 +58,3 @@ We are still collecting concrete data, but we believe that this will:
 ### Who's Doing This?
 
 Frederick County, MD
-
-### Real-World Examples
