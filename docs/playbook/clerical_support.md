@@ -54,7 +54,7 @@ We are still collecting concrete data, but believe that this:
 
 ### Who's Doing This?
 
-Washington
+Washington and California
 
 ### Real-World Examples
 
