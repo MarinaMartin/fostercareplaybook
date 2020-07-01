@@ -60,3 +60,5 @@ We are still collecting concrete data, but suspect that this:
 Indiana, Rhode Island
 
 ### Real-World Examples
+
+* [Example email for this play](/assets/resolve_minor_pending_items_asset)
