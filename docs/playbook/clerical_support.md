@@ -16,7 +16,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: renewals
+topic: licensing
 audience: anyone
 cost: FTE
 timeframe: months
@@ -54,3 +54,8 @@ We are still collecting concrete data, but believe that this:
 
 ### Who's Doing This?
 
+Washington
+
+### Real-World Examples
+
+* [Position description for clerical support](/assets/WA PD for Clerical Support.doc) in WA state
