@@ -71,3 +71,5 @@ We are still collecting concrete data, but suspect that this:
 California, Indiana, Rhode Island
 
 ### Real-World Examples
+
+* [Sample safety inspection drive language](/assets/provide_inspection_items_to_families_in_need_asset)*
