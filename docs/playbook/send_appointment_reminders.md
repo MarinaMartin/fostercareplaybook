@@ -67,3 +67,5 @@ We are still collecting concrete data, but suspect that this will:
 No one yet! But we heard the need from multiple members. Be the first?
 
 ### Real-World Examples
+
+* [Example reminder text for this play](/assets/send_appointment_reminders_asset)

@@ -67,8 +67,10 @@ We are still collecting concrete data, but suspect that this:
 
 ### Who's Doing This?
 
-Rhode Island
+Rhode Island and Washington State
 
 ### Real-World Examples
 
 * Rhode Island's [safety checklist for families (in English and Spanish)](/assets/Fire  Lead Safety Inspection Checklist - English and Spanish.pdf)
+
+* Washington’s [statute-aligned checklist](/assets/10-183 Foster Inspection Checklist.docx)
