@@ -62,3 +62,4 @@ Indiana, Rhode Island
 ### Real-World Examples
 
 * [Example email for this play](/assets/resolve_minor_pending_items_asset)
+* [Example IT Requirements and user stories](/assets/resolve_minor_pending_items_asset2)
