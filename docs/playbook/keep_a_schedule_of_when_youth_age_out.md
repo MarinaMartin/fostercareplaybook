@@ -45,8 +45,7 @@ Staff often does not have an easy way to track which of their youth are nearing 
 
 * Create a list, in Excel or in your case management system, for staff to easily view which youth are closest to aging out, so that their needs can be met before they exit care.
 * Break the tracker down by: the next 1 month, 6 months, and 12 months.
-* In Excel, you can enter the youth’s transition date, and it can automatically sort into these categories.
-
+* In Excel, you can enter the youth’s transition date, and it can automatically sort into these categories (see example below).
 
 ### Outcomes Data
 
@@ -56,5 +55,9 @@ We are still collecting concrete data, but believe that this:
 ### Who's Doing This?
 
 No one yet! But we heard the need from multiple members. Be the first?
+
+### Real-World Examples
+
+* [Excel spreadsheet that sorts transitioning youth by birthdate](/assets/Youth Age Out Tracker.xlsx)
 
 *This play was contributed by [Think of Us](https://thinkof-us.org).*
