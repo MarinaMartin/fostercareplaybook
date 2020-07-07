@@ -59,7 +59,7 @@ Youth will be able to afford more food and essentials with the same stipend amou
 
 ### Who's Doing This?
 
-Santa Clara County, California
+[First Place for Youth](https://www.firstplaceforyouth.org/)
 
 ### Resources
 
