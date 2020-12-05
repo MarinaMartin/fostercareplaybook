@@ -58,10 +58,13 @@ We are still collecting concrete data, but believe that this:
 
 ### Who's Doing This?
 
+[Uplift Family Services](https://upliftfs.org/) in CA
 
 
 ### Real-World Examples
 
 [Printable Heart Map](/assets/heartmap.pdf)
+[Example Heart Map from Uplift](/assets/heartmap.jpg) and [legend](/assets/heartmap_legend.jpg)
+(Note, this example was made by staff; "EJ" is made up and the map has no real child information on it)
 
 *This play was contributed by [Think of Us](https://thinkof-us.org).*
