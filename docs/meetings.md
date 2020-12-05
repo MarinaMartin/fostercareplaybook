@@ -20,11 +20,15 @@ subnav:
 
 **NEXT MEETING:** 
 
-July 21, 2020
-* 1200 PT / 1500 ET
-* Topic: Training
+January 28, 2021
+* 1000 PT / 1300 ET
+* Topic: Inquiry Management
 
 **PREVIOUS MEETINGS:**
+
+December 2, 2020
+* 1000 PT / 1300 ET
+* Topic: Family Finding
 
 June 18, 2020
 * 1130 PT / 1430 ET
