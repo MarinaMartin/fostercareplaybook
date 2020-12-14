@@ -69,7 +69,7 @@ Many agencies are pausing their resource family training and licensing efforts. 
 * Reschedule applicants who are currently scheduled to attend an in-person orientation, to an online version.
 
 
-**Convert your own in-person training to online training:** If you prefer using your own training, you can convert it to online training. Michigan has recommended best practices:
+**Convert your own in-person training to online training:** If you prefer using your own training, you can convert it to online training. Michigan has recommended promising practices:
 
 * Create closed Facebook groups for each class to help class members form connections with each other and allow trainers to send out videos, homework, etc. These groups create connections between participants and allow for a support group of sorts. 
 

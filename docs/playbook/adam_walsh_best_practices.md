@@ -1,6 +1,6 @@
 ---
 title: Use Best Practices for Requesting & Fulfilling Out-of-State Abuse & Neglect Registry Checks
-description: Best practices for Adam Walsh checks.
+description: Promising practices for Adam Walsh checks.
 
 layout: page
 sidenav: sidebar
@@ -29,7 +29,7 @@ The Adam Walsh Act of 2006 requires that if a prospective foster parent lived in
 
 Inconsistent processes across states for fulfilling these requests are putting children at risk, and cause some of the most significant delays in licensing foster parents. In jurisdictions that do not financially support relative placements until they are fully licensed, this delay translates into weeks or months of grandmothers struggling to make ends meet while caring for their grandchildren.
 
-If every child welfare system followed the best practices below, it would eliminate most of these inefficiencies.
+If every child welfare system followed the promising practices below, it would eliminate most of these inefficiencies.
 
 ### Best Practices for Making Requests
 

@@ -1,6 +1,6 @@
 ---
 title: Background Check Plays
-description: Here you will find a collection of some best practices on conducting background checks for placements from our members.
+description: Here you will find a collection of some promising practices on conducting background checks for placements from our members.
 layout: page
 sidenav: sidebar
 subnav:

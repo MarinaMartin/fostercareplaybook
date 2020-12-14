@@ -1,6 +1,6 @@
 ---
 title: Extended Foster Care Plays
-description: Best practices related to extended foster care.
+description: Promising practices related to extended foster care.
 layout: page
 sidenav: sidebar
 subnav:

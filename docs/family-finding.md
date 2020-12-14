@@ -1,6 +1,6 @@
 ---
 title: Family Finding Plays
-description: Best practices related to family-finding..
+description: Promising practices related to family-finding..
 layout: page
 sidenav: sidebar
 subnav:

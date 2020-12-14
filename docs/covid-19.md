@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Information
-description: Best practices related to child welfare and coronavirus.
+description: Promising practices related to child welfare and coronavirus.
 layout: page
 sidenav: sidebar
 subnav:
@@ -18,7 +18,7 @@ subnav:
     href: /covid-19
 ---
 
-Find best practices related to child welfare and coronavirus on our sister site, the [Think of Us COVID-19 Child Welfare Command Center](https://thinkofus.gitbook.io/command-center/resources/agencies).
+Find promising practices related to child welfare and coronavirus on our sister site, the [Think of Us COVID-19 Child Welfare Command Center](https://thinkofus.gitbook.io/command-center/resources/agencies).
 
 <ul>
   {% assign filtered_posts = site.pages | where: 'topic', 'covid-19' %}
