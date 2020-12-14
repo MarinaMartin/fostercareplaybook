@@ -13,6 +13,8 @@ subnav:
     href: /renewals
   - text: Extended Foster Care
     href: /extended-foster-care
+  - text: Family Finding
+    href: /family-finding
   - text: COVID-19
     href: /covid-19
 ---

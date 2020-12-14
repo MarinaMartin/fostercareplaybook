@@ -13,10 +13,12 @@ subnav:
     href: /renewals
   - text: Extended Foster Care
     href: /extended-foster-care
+  - text: Family Finding
+    href: /family-finding
   - text: COVID-19
     href: /covid-19
 
-topic: drafts
+topic: family-finding
 audience: senior agency leadershp
 cost: free
 timeframe: months
@@ -52,7 +54,7 @@ Fewer youth will enter group homes if there is a team dedicated to finding alter
 
 ### Outcomes Data
 
-* Rhode Island was able to significantly depopulate group homes by requiring a red team before 
+* Rhode Island has begun to depopulate group homes by requiring a red team before any group placement, or any placement into a home that already has at least one other unrelated foster child.
 
 ### Who's Doing This?
 
