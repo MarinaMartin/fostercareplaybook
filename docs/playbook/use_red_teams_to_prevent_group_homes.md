@@ -55,6 +55,7 @@ Fewer youth will enter group homes if there is a team dedicated to finding alter
 ### Outcomes Data
 
 * Rhode Island has begun to depopulate group homes by requiring a red team before any group placement, or any placement into a home that already has at least one other unrelated foster child.
+* New Mexico increased initial kinship placements from 3% to 40% in one year by shifting to practices that included requiring Director-level approval for non-kin placements.
 
 ### Who's Doing This?
 
@@ -63,3 +64,4 @@ Fewer youth will enter group homes if there is a team dedicated to finding alter
 ### Real-World Examples
 
 * Rhode Island holds a red team meeting, led by the Chief of Staff of the Department, before a child is placed in a group home or in a general foster home where they would be with other unrelated foster youth. As part of the red team, the family finding office conducts kin research, the team constructs a genogram, and they ask the youth directly about possible placement ideas.
+* New Mexico has a policy that a Director must approve any placement with non-kin (whether general foster care, or a group home), even if it's the middle of the night.
