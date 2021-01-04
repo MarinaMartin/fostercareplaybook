@@ -71,3 +71,5 @@ We are still collecting concrete data, but believe that this:
 
 ### Who's Doing This?
 
+* Indiana
+* Washington State
