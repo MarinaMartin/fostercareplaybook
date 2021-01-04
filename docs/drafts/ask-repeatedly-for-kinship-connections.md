@@ -56,6 +56,7 @@ We don't have any concrete outcomes data for this play yet.
 ### Who's Doing This?
 
 * Michigan
+* Ohio (coming soon)
 * Rhode Island
 * Virginia
 * Washington State
@@ -64,6 +65,6 @@ We don't have any concrete outcomes data for this play yet.
 
 * In Washington State, asking participants to identify supportive connections is a standard part of every Family Team Decision Meeting.
 * Michigan policy is: "The relative search must begin prior to the child’s removal from the home and continues until legal permanency for the child has been achieved or case closure… Caseworkers must pursue the identification and notification of relatives and document the initial and ongoing efforts in the investigation report and each case service plan."
-* Ohio is developing a new practice in its court system where judges will prompt participants to identify missing supportive adults.
+* Ohio is developing a new practice in its court system where judges will prompt participants to identify missing supportive adults. It will guide the judge or magistrate to ask about whether relatives have been explored and if they are being pursued, and where are they in the process. It will also prompt them to ask if they are in kinship placement, whether the caregiver linked with training, services and about financial support.
 * Rhode Island connects with foster youth in group homes over Zoom meetings to ask about supportive connections.
 * Virginia policy is to ask about supportive adults at every placement change, and also annually.

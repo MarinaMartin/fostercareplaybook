@@ -60,4 +60,4 @@ While we don't have exact data for this play, anecdotal data from our members su
 
 ### Real-World Examples
 
-* Michigan explicitly asks identified kin to commit to staying in touch with youth on their (Relative Notification Form)[http://www.michigan.gov/documents/dhs/DHS-0990_265835_7.dot]
+* Michigan explicitly asks identified kin to commit to staying in touch with youth on their [Relative Notification Form](http://www.michigan.gov/documents/dhs/DHS-0990_265835_7.dot)

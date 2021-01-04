@@ -62,4 +62,4 @@ We don't have any concrete outcomes data for this play yet.
 ### Real-World Examples
 
 * In California, all supportive adults at every Child and Family Team meeting are explicitly asked if they know of any other kin who should be included.
-* Michigan explicitly asks identified kin to share the names of more kin on their (Relative Notification Form)[http://www.michigan.gov/documents/dhs/DHS-0990_265835_7.dot]
+* Michigan explicitly asks identified kin to share the names of more kin on their [Relative Notification Form](http://www.michigan.gov/documents/dhs/DHS-0990_265835_7.dot)

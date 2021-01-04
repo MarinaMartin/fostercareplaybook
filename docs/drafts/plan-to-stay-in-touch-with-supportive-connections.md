@@ -63,8 +63,8 @@ Most youth enter foster care with more relationships than they exit with. Suppor
 ### Real-World Examples
 
 * Uplift Human Services in San Jose, CA uses a [heart map](/playbook/heart_maps) to help kids identify and make plans with their supportive connections.
-* Michigan explicitly asks identified kin to commit to staying in touch with youth on their (Relative Notification Form)[http://www.michigan.gov/documents/dhs/DHS-0990_265835_7.dot]
-* Michigan has a ("Maintaining Contact when Placement is Not an Option" policy)[https://dhhs.michigan.gov/OLMWEB/EX/FO/Public/FOM/722-03B.pdf]:
+* Michigan explicitly asks identified kin to commit to staying in touch with youth on their [Relative Notification Form](http://www.michigan.gov/documents/dhs/DHS-0990_265835_7.dot)
+* Michigan has a ["Maintaining Contact when Placement is Not an Option" policy](https://dhhs.michigan.gov/OLMWEB/EX/FO/Public/FOM/722-03B.pdf):
   * Relatives who are not considered for placement are encouraged to maintain contact in other ways, which include but are not limited to: Supervising parent/child visitation; Transporting the child to appointments, visitation, etc.; Attending school programs, athletic events, etc.; and Visits, phone calls, and letters.
   
 * [California State Code](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=WIC&sectionNum=16501.1) requires that the child welfare system make a plan for maintaining supportive connections for foster youth 10 and older.
