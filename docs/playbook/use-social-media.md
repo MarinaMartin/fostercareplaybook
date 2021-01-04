@@ -18,7 +18,7 @@ subnav:
   - text: COVID-19
     href: /covid-19
 
-topic: drafts
+topic: family-finding
 audience: anyone
 cost: free
 timeframe: immediate
@@ -60,6 +60,7 @@ Every child welfare system can do more to find more family members for youth in 
 
 ### Who's Doing This?
 
+* Ohio
 * Virginia has a dedicated family finding team that uses social media
 * Rhode Island's dedicated family finding team
 * Washington State is updating its policies to allow more workers to use social media
@@ -70,4 +71,4 @@ Every child welfare system can do more to find more family members for youth in 
 
 * Virginia's central family-finding social media accounts are called "Virginia Family Finding 1" (and 2, and 3) to protect worker privacy.
 * Rhode Island's family finding team uses "DCYF" in place of worker last names on social media to protect worker privacy.
-* Michigan has social media sites listed on their (Diligent Search checklist)[http://www.michigan.gov/documents/dhs/DHS-0991_480683_7.dot]
+* Michigan has social media sites listed on their [Diligent Search checklist](http://www.michigan.gov/documents/dhs/DHS-0991_480683_7.dot)
