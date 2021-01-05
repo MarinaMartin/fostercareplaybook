@@ -50,7 +50,7 @@ Most youth leave foster care with fewer connections than they entered with. Yet,
 
 ### Outcomes Data
 
-* Olmsted County, MN demonstrated significantly better outcomes for older foster youth when a ratio of 3:1 unpaid adults to paid staff attended their planning meetings.
+* Olmsted County, MN demonstrated significantly better outcomes for older foster youth when a ratio of 3:1 unpaid adults to paid staff attended their planning meetings (roughly 12 family members to 3 staff members). They also pay attention to the balance of family present from both sides of the family. [source](https://anchor.fm/nipfc/episodes/Episode-10--Sustaining-Family-Involvement-ea7q6v)
 
 ### Who's Doing This?
 
