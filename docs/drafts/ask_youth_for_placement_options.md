@@ -63,6 +63,6 @@ Youth are often placed in general foster care or in group homes when they actual
 
 ### Real-World Examples
 
-* Indiana has developed a practice of asking child welfare workers for a youth's input whenever they call the placement desk.
+* Indiana is piloting a practice of asking child welfare workers for a youth's input whenever they call the placement desk.
 * During the COVID-19 pandemic, Rhode Island set up a Zoom meeting with each group home facility, and met with each youth one on one to discuss their placement options. They were able to move many youth from group homes into kinship placements as a result.
 * Fairfax County, Virginia conducts family finding for youth annually, and at every placement change.
