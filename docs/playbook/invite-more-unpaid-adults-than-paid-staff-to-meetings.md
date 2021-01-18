@@ -55,8 +55,11 @@ Most youth leave foster care with fewer connections than they entered with. Yet,
 ### Who's Doing This?
 
 * Michigan 
+* Ohio
 * Olmsted County, MN
 
 ### Real-World Examples
 
 * Michigan has begun tracking who attends each planning meeting, and their role (e.g. CASA, supportive adult, paid staff). They do this in a simple Excel spreadsheet, with regular exports from their IT system.
+* Ohio has Youth Centered Permanency Round Tables (YCPRT) running in several counties. For YCPRTs, the youth is asked to bring a support person to the meeting. It can be anyone: a caregiver, a friend of the family, a member of the family, or anyone the youth feels is supportive of them.  That can also initiate more conversations and discussion about permanency options and supports for the youth.  One youth asked his fast food manager to come with him, and the manager didn’t even know he was in foster care. The manager ended up adopting him!
+* In Ohio, the practice for maintaining  connections is: any youth 14 and over is able to have two support persons join in on the family team meetings and case plan meetings.  That helps to initiate discussion of any other support persons available to the child. 
