@@ -19,15 +19,28 @@ subnav:
     href: /covid-19
 ---
 
-The Child Welfare Playbook is a collection of creative practices that lead to tangible improvements and efficiencies in support of foster children and families. Our goal is to create a public, actionable playbook documenting proven promising practices that can be easily replicated and scaled by others.
+The Child Welfare Playbook is a collection of promising practices in service of the following five goals:
 
-The Playbook is the result of a collaboration between states at the cutting edge of this work and [New America's Public Interest Technology team](https://www.newamerica.org/public-interest-technology/), in partnership with the [Beeck Center’s Digital Service Collaborative (DSC)](https://beeckcenter.georgetown.edu/project/digital-service-collaborative-building-capacity-for-digital-transformation-in-government/), [Foster America](https://www.foster-america.org/), and [Think of Us](https://www.thinkof-us.org/).
+(1) No child enters foster care when prevention services could keep them safe instead. The federal government estimates up to 60% of children are in foster care because they are poor; these children should never be removed.
+
+(2) If a child must enter foster care for safety reasons, they should immediately be placed with an adult they already know and trust, and that placement should be supported financially (and otherwise) to keep that child either permanently, or until they can return home safely. A plan must be made and adhered to for keeping that child connected with their entire original support network (family, teachers, friends, etc.) during their time in foster care.
+
+(3) If a child must enter foster care for safety reasons, and they do not have any adult connections, they should immediately be placed with an adult who fully meets their needs (e.g. speaks the same language, lives in the same school district, and is willing to be a long-term placement), and with whom they can remain until they can return home or, if reunification is truly not possible, with whom they can stay forever.
+
+(4) No child should ever live in a group home. While inpatient hospitalization may be a necessary short-term treatment, every child should live with a family. This is possible for even the highest-needs children with the right wraparound and financial support (which are still collectively less expensive than group homes).
+
+(5) Race, ethnicity, and/or socioeconomic status should not impact a child’s likelihood of being removed into foster care, or of achieving permanency if they must be removed.
+
+
+Our goal is to create a public, actionable playbook documenting practices that can be easily replicated and scaled by others.
+
+The Playbook is the result of a collaboration between states at the cutting edge of this work and [New America's Public Interest Technology team](https://www.newamerica.org/public-interest-technology/), in partnership with the [Foster America](https://www.foster-america.org/) and [Think of Us](https://www.thinkof-us.org/).
 
 ### Membership
 
 Any state, county (in county-administered systems), or private agency is welcome to join us. We also welcome input from any individuals or organizations with expertise and promising practices to share!
 
-Our current members include: _California, Hawaii, Indiana, Maryland (State of Maryland, along with Baltimore, Frederick, Montgomery, and Prince George’s counties), Michigan, New Mexico, Ohio, Rhode Island, Virginia (Fairfax county), Washington DC, and Washington State._
+Our current members include: _California, Colorado, Hawaii, Indiana, Maryland (State of Maryland, along with Baltimore, Frederick, Montgomery, and Prince George’s counties), Michigan, New Mexico, Ohio, Rhode Island, Virginia (Fairfax county), Washington DC, and Washington State._
 
 **There is absolutely no cost to participate, and the commitment is just two hours a month.**
 
