@@ -65,6 +65,9 @@ These tools are used and recommended by at least one of our child welfare system
 **Rhode Island Genogram Excel Template**
 Rhode Island's dedicated family finding team share their [Excel genogram template](/assets/GENOGRAM.xlsx)
 
+**Michigan Genogram Templates**
+Download [here](/assets/Genogram_MI.pdf).
+
 **FamilyEcho**
 Michigan recommends [FamilyEcho](https://www.familyecho.com/)
 
