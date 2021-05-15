@@ -9,12 +9,18 @@ subnav:
     href: /licensing
   - text: Background Checks
     href: /background-checks
-  - text: License Renewals
-    href: /renewals
   - text: Extended Foster Care
     href: /extended-foster-care
-  - text: Family-Finding
+  - text: Family Finding
     href: /family-finding
+  - text: Inquiry Management
+    href: /inquiries
+  - text: License Renewals
+    href: /renewals
+  - text: Recruitment
+    href: /recruitment
+  - text: Retention
+    href: /retention
   - text: COVID-19
     href: /covid-19
 ---
