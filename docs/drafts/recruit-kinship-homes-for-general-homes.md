@@ -65,3 +65,4 @@ Every child welfare system is looking for more families. Kinship caregivers are 
 * In Washington, DC case workers track kinship caregivers' capacity and milestones on a monthly basis. If they see a kinship caregiver may have extra capacity, or after a kinship placement returns home (or achieves permanency with them), they initiate conversations about becoming a general foster home instead of closing.
 * In Washington State, kinship caregivers who are well-supported and have extra capacity are asked to add a "plus one" to their license to leave open the possibility of taking another child.
 * In Indiana, case workers are encouraged to discuss the possibility of taking on additional foster placements with kinship caregivers on an individual basis.
+* In Oklahoma, workers are trained to discuss options with kinship caregivers. Through mixed training classes, kinship caregivers are exposed to the idea of general foster care and interact with general licensed families.
