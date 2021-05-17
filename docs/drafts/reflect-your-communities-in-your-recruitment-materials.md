@@ -54,6 +54,7 @@ People look for themselves in marketing materials. Representation helps more peo
 * Review and update your recruitment and marketing materials (websites, posters, brochures, etc.) to better reflect your community members, especially those communities from which you need more homes for children in order to _keep_ those children in their community. For example, if you need more homes to support trans teenagers, make sure you include trans caregivers and LGBTQ+ positive stories in your materials.
 * Ask for pronouns in your inquiry and application forms, and use them. Make it routine for everyone to share pronouns when meeting prospective families, at orientation, at training, etc.
 * Ask for preferred names in your inquiry and application forms, and use them. (You may need to use a legal name for formal background checks, but otherwise, you should refer to individuals by their preferred names.)
+* Confirm that inquiry and application forms support households with single applicants, as well as two or three applicants (in support of multi-generational households).
 * In addition to photographs, review materials for inclusive case studies, names used in example scenarios, etc.
 
 
