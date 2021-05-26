@@ -61,4 +61,4 @@ When filling out a foster family inquiry form on a website, most people default 
 
 * Frederick County, MD asks interested families to specify _in detail_ how they became interested in fostering, and asks them to indicate all the places where they heard about fostering on [their inquiry form](/assets/FrederickCountyInquiries.pdf). This helped them realize that ValPack mailers were actually reaching a lot of families.
 
-* Fairfax County, VA does not ask for referral information on its inquiry form by design, and instead asks in their initial orientation phone call. They report this provides richer and more detailed answers than a form.
+* Fairfax County, VA does not ask for referral information on its inquiry form by design, and instead asks in their initial orientation phone call. They report this provides richer and more detailed answers than a form. "We’ll ask them about, among other things, how they heard about us. “Oh, the website? How did you get there? Was there something in particular?”"
