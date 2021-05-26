@@ -56,5 +56,5 @@ Current foster parents who do not work for the Department can provide additional
 
 ### Who's Doing This?
 
-* Frederick County, MD hires experienced foster parents to co-facilitate foster parent training.
+* Frederick County, MD hires experienced foster parents to co-facilitate PRIDE foster parent training.
 * Fairfax County, VA hires experience foster parents to conduct initial home visits for prospective foster families.
